@@ -1,5 +1,5 @@
 +++
-title = "破釜  第二章：盲河哑丐"
+title = "破釜 02：盲河哑丐"
 date = "2024-01-14"
 description = "文/白菜"
 tags = [
