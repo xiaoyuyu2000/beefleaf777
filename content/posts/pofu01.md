@@ -3,11 +3,13 @@ title = "破釜 第一章：沧海无渡"
 date = "2024-01-14"
 description = "文/白菜"
 tags = [
-    "双玄"
+    "双玄",
+    "原著向",
+    "长篇"
 ]
 categories = [
     "双玄",
-    "破斧"
+    "破釜"
 ]
 +++
 
@@ -166,3 +168,6 @@ categories = [
 他望着这白水汤汤，胸中只余下四个字铮然作响。
 
 ——沧海无渡。
+
+
+<style>p{text-indent:2em}</style>
