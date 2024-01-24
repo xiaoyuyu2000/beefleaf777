@@ -1,7 +1,7 @@
 ##########################################
 # 站点配置
 
-baseURL = "https://example.com/"
+baseURL = "https://beefleaf777.netlify.app/"
 title = "双玄文存档"
 languageCode = "zh-CN"
 hasCJKLanguage = true
